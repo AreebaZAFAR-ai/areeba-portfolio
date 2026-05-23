@@ -178,12 +178,12 @@ const socialImgs = [
   {
     name: "x",
     imgPath: "/images/github.png",
-    link:'https://github.com/Laiba-Zafar7'
+    link:'https://github.com/AreebaZAFAR-ai'
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
-    link:'https://www.linkedin.com/in/laiba-zafar-3b890b362/'
+    link:'https://www.linkedin.com/in/areebazaafar/'
     
   },
 ];

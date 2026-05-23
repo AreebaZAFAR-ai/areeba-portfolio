@@ -62,7 +62,7 @@ const Hero = () => {
 
             {/* Description */}
             <p className="text-white-50 md:text-xl text-base leading-relaxed">
-              Hi, I'm Laiba — a developer building clean, scalable, and
+              Hi, I'm Areeba — a developer building clean, scalable, and
               production-ready solutions.
             </p>
 
@@ -83,7 +83,7 @@ const Hero = () => {
 
           {/* Profile Image */}
           <img
-            src="/images/laiba.jpeg"
+            src="/images/innovative.jpeg"
             alt="Laiba"
             className="w-[280px] md:w-[360px] rounded-3xl shadow-2xl object-cover border border-white/10"
           />
@@ -94,9 +94,9 @@ const Hero = () => {
               Innovative Pakistan 2026
             </h3>
             <p className="text-white-50 text-sm md:text-base leading-relaxed">
-              Awarded 3rd Position among 1,000+ projects from 50 universities
-              nationwide for developing an AI-Based Handwritten Paper Evaluation
-              & Feedback System, securing a cash prize of Rs. 100,000.
+              Proud to share that our project, PsycheCare, was selected among the Top 50 Projects at Innovative Pakistan 2026 after a rigorous evaluation process by industry experts, academic leaders, and technical evaluators.
+Honored to showcase our innovation on one of Pakistan’s largest national platforms for technology, research, and entrepreneurship.
+
             </p>
           </div>
         </div>

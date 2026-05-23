@@ -62,7 +62,7 @@ const AppShowcase = () => {
             className="first-project-wrapper cursor-pointer hover:opacity-80 transition-opacity mb-0"
           >
             <div className="image-wrapper ">
-              <img src="/images/project1.png" alt="Evalica Project mb-0" />
+              <img src="/images/projects1.png" alt="Evalica Project mb-0" />
             </div>
             <div className="text-content">
               <h2>
@@ -84,7 +84,7 @@ const AppShowcase = () => {
             >
               <div className="image-wrapper bg-[#FFEFDB]">
                 <img
-                  src="/images/project2.png"
+                  src="/images/areebazafar.png"
                   alt="Library Management Platform"
                 />
               </div>

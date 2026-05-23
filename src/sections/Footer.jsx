@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-container">
         <div className="flex flex-col justify-center">
-        <p>zaafarlaiba@gmail.com</p>
+        <p>areebazafaar@gmail.com</p>
         </div>
 
         <div className="socials">
@@ -28,7 +28,7 @@ const Footer = () => {
 
         <div className="flex flex-col justify-center">
           <p className="text-center md:text-end">
-            © {new Date().getFullYear()} Laiba Zafar. All rights reserved.
+            © {new Date().getFullYear()} Areeba Zafar. All rights reserved.
           </p>
         </div>
       </div>
