@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="public/images/readme.png" alt="Portfolio Banner" width="100%" />
+<img src="public/images/landingpage.png" alt="Portfolio Banner" width="100%" />
 
 <br />
 <br />
 
-# ✦ Laiba Zafar — Developer Portfolio
+# ✦ Areeba Zafar — Developer Portfolio
 
 **Full Stack & AI Agent Engineer**
 
@@ -169,9 +169,9 @@ Developer-Portfolio/
 
 | Platform | Link |
 |---|---|
-| 📧 **Email** | [your-email@example.com](zaafarlaiba@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/your-profile](https://www.linkedin.com/in/laiba-zafar-3b890b362/) |
-| 🐙 **GitHub** | [github.com/Laiba-Zafar7](https://github.com/Laiba-Zafar7) |
+| 📧 **Email** | [your-email@example.com](areebazafaar@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/your-profile](https://www.linkedin.com/in/areebazaafar/?skipRedirect=true) |
+| 🐙 **GitHub** | [github.com/AreebaZAFAR-ai](https://github.com/AreebaZAFAR-ai) |
 
 </div>
 
@@ -183,8 +183,8 @@ Developer-Portfolio/
 
 If this portfolio inspired you or helped you build your own, consider giving it a star on GitHub.
 
-[![Star on GitHub](https://img.shields.io/badge/⭐_Star_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Laiba-Zafar7/Developer-Portfolio)
+[![Star on GitHub](https://img.shields.io/badge/⭐_Star_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AreebaZAFAR-ai/areeba-portfolio)
 
-*Made with ❤️ by [Laiba Zafar](https://github.com/Laiba-Zafar7)*
+*Made with ❤️ by [Areeba Zafar](https://github.com/AreebaZAFAR-ai)*
 
 </div>
